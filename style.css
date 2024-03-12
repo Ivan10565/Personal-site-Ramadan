@@ -1,0 +1,133 @@
+.hero{
+    background-color: burlywood;
+}
+
+.display-4{
+    margin-bottom: 30px;
+}
+
+
+#me{
+    border-radius: 50%;
+}
+
+.me{
+    margin-bottom: 50px;
+}
+
+.hello{
+    color: burlywood;
+    margin-bottom: 30px;
+}
+
+
+
+
+#skills{
+    text-align: center;
+    color: burlywood;
+    margin-bottom: 200px;
+}
+
+#worship{
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+    .parent {
+        display: grid;
+        grid-template-columns: 0.5fr 1fr;
+        grid-template-rows: repeat(1, 1fr);
+        width: 50%;
+        margin: 100px auto 0 auto;
+        text-align: left;
+        row-gap: 2rem;
+    }
+
+    div {
+        display: block;
+    }
+
+
+h3{
+    color: burlywood;
+}
+
+.two{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2;
+
+}
+.hot-wings{
+
+    margin-top: 100px;
+}
+
+hr {
+    border: dotted burlywood 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.contact-me {
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;
+        text-decoration: none;
+      }
+
+.get-in-touch{
+    color: burlywood;
+    text-decoration: none; 
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 50px;
+  margin-top: 200px;
+}
+
+.love-to-Allah{
+    color: burlywood;
+    text-decoration: none;
+
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 50px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: burlywood;
+    background-image: -webkit-linear-gradient(top, burlywood, burlywood);
+    background-image: -moz-linear-gradient(top, burlywood, burlywood);
+    background-image: -ms-linear-gradient(top, burlywood, burlywood);
+    background-image: -o-linear-gradient(top, burlywood, burlywood);
+    background-image: linear-gradient(to bottom, burlywood, burlywood);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 300px;
+}
+
+.py-3{
+    background-color: burlywood;
+    margin-top: 200px;
+}
